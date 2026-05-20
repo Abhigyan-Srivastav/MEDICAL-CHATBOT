@@ -1,0 +1,10 @@
+#To-Do Next
+RAG_MEDICAL_CHAT_BOT
+
+1. Use Qdrant
+2. Use MedGemma
+3. Use Multi Modal
+4. Use Guardrails
+5. Use Ms Presidio
+6. Use Evaluation including LangSmith and others like RAGAS
+
